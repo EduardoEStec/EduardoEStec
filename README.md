@@ -19,10 +19,10 @@
 Sou Eduardo, fundador da **[ES Tecnologia](https://estecnologia.com.br)** — uma empresa de tecnologia baseada em São Paulo que transforma ideias em produtos digitais de alto nível. Com **+3 anos de experiência** em desenvolvimento, construo desde sites institucionais até plataformas SaaS completas com IA.
 
 - 🚀 Trabalho com **Next.js, Supabase, Tailwind CSS, TypeScript**
-- 🤖 Desenvolvo **automações com IA** e sistemas inteligentes
+- 🤖 Desenvolvo **automações com IA, agentes de IA** e sistemas inteligentes
 - 🏢 Atendo desde pequenas empresas até projetos B2B robustos
 - 🌐 Baseado em **São Paulo, SP — Brasil**
-- 📬 Contato: **[estecnologia.com.br]([https://estecnologia.com.br](https://eduardoestec.github.io/es-tecnologia/#contato)**
+- 📬 Contato: **[estecnologia.com.br](https://eduardoestec.github.io/es-tecnologia/#contato)**
 
 ---
 
@@ -73,7 +73,6 @@ Sou Eduardo, fundador da **[ES Tecnologia](https://estecnologia.com.br)** — um
 
 > 💡 *Mais projetos em breve — alguns ainda em repositórios privados enquanto estão em desenvolvimento para clientes.*
 
-> 💡 *Mais projetos em breve — alguns ainda em repositórios privados enquanto estão em desenvolvimento para clientes.*
 
 ---
 
