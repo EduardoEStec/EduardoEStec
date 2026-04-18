@@ -22,7 +22,7 @@ Sou Eduardo, fundador da **[ES Tecnologia](https://estecnologia.com.br)** — um
 - 🤖 Desenvolvo **automações com IA** e sistemas inteligentes
 - 🏢 Atendo desde pequenas empresas até projetos B2B robustos
 - 🌐 Baseado em **São Paulo, SP — Brasil**
-- 📬 Contato: **[estecnologia.com.br](https://estecnologia.com.br)**
+- 📬 Contato: **[estecnologia.com.br]([https://estecnologia.com.br](https://eduardoestec.github.io/es-tecnologia/#contato)**
 
 ---
 
@@ -60,13 +60,18 @@ Sou Eduardo, fundador da **[ES Tecnologia](https://estecnologia.com.br)** — um
 
 ---
 
+
 ## 🚀 Projetos em Destaque
 
 <div align="center">
 
 [![ES Tecnologia Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=EduardoEStec&repo=es-tecnologia&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=60a5fa&text_color=c9d1d9)](https://github.com/EduardoEStec/es-tecnologia)
 
+[![Sistema de Chamados](https://github-readme-stats.vercel.app/api/pin/?username=EduardoEStec&repo=sistema-chamados&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=60a5fa&text_color=c9d1d9)](https://github.com/EduardoEStec/sistema-chamados)
+
 </div>
+
+> 💡 *Mais projetos em breve — alguns ainda em repositórios privados enquanto estão em desenvolvimento para clientes.*
 
 > 💡 *Mais projetos em breve — alguns ainda em repositórios privados enquanto estão em desenvolvimento para clientes.*
 
